@@ -1,7 +1,5 @@
 {
-    "buildCommand": "npm ci && npm run build",
-    "ignoreCommand": "echo 'No ignore'",
-    "installCommand": "npm ci",
+    "buildCommand": "npm run build",
     "outputDirectory": "build"
   }
   
